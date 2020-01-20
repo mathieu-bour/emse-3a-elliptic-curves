@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d501b917-9299-41e7-ab19-1989ed0e3f03" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W4Gb7gLHEM9TvxG1vLJgYsM4mJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/lib" />
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ECDH" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="elliptic-curves" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ECDH.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ECDH" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d501b917-9299-41e7-ab19-1989ed0e3f03" name="Default Changelist" comment="" />
+      <created>1578401522243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578401522243</updated>
+      <workItem from="1578401533665" duration="7893000" />
+      <workItem from="1579004172962" duration="11009000" />
+      <workItem from="1579505875148" duration="1007000" />
+      <workItem from="1579506902287" duration="167000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579013441893">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state x="418" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.987@0.27.1920.987" timestamp="1579013441893" />
+    <state x="685" y="27" width="530" height="987" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1579015194922">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state x="685" y="27" width="530" height="987" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.1920.987@0.27.1920.987" timestamp="1579015194922" />
+    <state x="693" y="269" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579011777215">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state x="693" y="269" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.987@0.27.1920.987" timestamp="1579011777215" />
+    <state width="1874" height="254" key="GridCell.Tab.0.bottom" timestamp="1579506774464">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state width="1874" height="254" key="GridCell.Tab.0.bottom/0.27.1920.987@0.27.1920.987" timestamp="1579506774464" />
+    <state width="1874" height="254" key="GridCell.Tab.0.center" timestamp="1579506774464">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state width="1874" height="254" key="GridCell.Tab.0.center/0.27.1920.987@0.27.1920.987" timestamp="1579506774464" />
+    <state width="1874" height="254" key="GridCell.Tab.0.left" timestamp="1579506774463">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state width="1874" height="254" key="GridCell.Tab.0.left/0.27.1920.987@0.27.1920.987" timestamp="1579506774463" />
+    <state width="1874" height="254" key="GridCell.Tab.0.right" timestamp="1579506774464">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state width="1874" height="254" key="GridCell.Tab.0.right/0.27.1920.987@0.27.1920.987" timestamp="1579506774464" />
+    <state x="449" y="155" width="1022" height="737" key="SettingsEditor" timestamp="1579506883831">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state x="449" y="155" width="1022" height="737" key="SettingsEditor/0.27.1920.987@0.27.1920.987" timestamp="1579506883831" />
+    <state x="616" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1579506902744">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state x="616" y="348" key="com.intellij.ide.util.TipDialog/0.27.1920.987@0.27.1920.987" timestamp="1579506902744" />
+    <state x="685" y="412" width="540" height="223" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1578401549127">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state x="685" y="412" width="540" height="223" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.27.1920.987@0.27.1920.987" timestamp="1578401549127" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/elliptic_curves$test.coverage" NAME="test Coverage Results" MODIFIED="1579506769824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/elliptic_curves$work.coverage" NAME="work Coverage Results" MODIFIED="1578408366825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
