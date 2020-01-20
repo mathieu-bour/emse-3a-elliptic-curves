@@ -1,5 +1,5 @@
 from random import randint
-from src.lib.P256 import P256
+from src.ecc.P256 import P256
 
 # Standard generator
 G = P256.Generator()
