@@ -1,5 +1,4 @@
 from time import time_ns
-
 from src.ecc.P256 import P256
 
 nstime = lambda: int(round(time_ns()))
